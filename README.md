@@ -63,3 +63,5 @@ re-reporting closed work.
 
 Follow [@anza_xyz](https://x.com/anza_xyz) on X and **Watch** this repository.
 Further competition details will be announced in both places.
+
+<!-- mascot: .github/alpen -->
